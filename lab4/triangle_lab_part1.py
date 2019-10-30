@@ -37,7 +37,7 @@ def triangle_detect():
 triangle_detect()
 
 """
-TESTS
+simple TESTS
 """
 #  should return yes triangle
 """
