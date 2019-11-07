@@ -125,35 +125,35 @@ def main():
         print("Hand 1: Straight flush")
         check_hand_1 = 1
 
-    if check_high_card:
+    elif check_high_card:
         print("Hand 1: High card")
         check_hand_1 = 9
 
-    if check_full_house:
+    elif check_full_house:
         print("Hand 1: Full house")
         check_hand_1 = 3
 
-    if check_pair:
+    elif check_pair:
         print("Hand 1: A pair")
         check_hand_1 = 8
 
-    if check_2_pair:
+    elif check_2_pair:
         print("Hand 1: Two pair")
         check_hand_1 = 7
 
-    if check_3_of_a_kind:
+    elif check_3_of_a_kind:
         print("Hand 1: 3 of a kind")
         check_hand_1 = 6
 
-    if check_4_of_a_kind:
+    elif check_4_of_a_kind:
         print("Hand 1: 4 of a kind")
         check_hand_1 = 2
 
-    if check_flush:
+    elif check_flush:
         print("Hand 1: A flush")
         check_hand_1 = 4
 
-    if check_straight:
+    elif check_straight:
         print("Hand 1: A straight")
         check_hand_1 = 5
 
@@ -163,35 +163,35 @@ def main():
         print("Hand 2: Straight flush")
         check_hand_2 = 1
 
-    if check_high_card_hand_2:
+    elif check_high_card_hand_2:
         print("Hand 2: High card")
         check_hand_2 = 9
 
-    if check_full_house_hand_2:
+    elif check_full_house_hand_2:
         print("Hand 2: Full house")
         check_hand_2 = 3
 
-    if check_pair_hand_2:
+    elif check_pair_hand_2:
         print("Hand 2: A pair")
         check_hand_2 = 8
 
-    if check_2_pair_hand_2:
+    elif check_2_pair_hand_2:
         print("Hand 2: Two pair")
         check_hand_2 = 7
 
-    if check_3_of_a_kind_hand_2:
+    elif check_3_of_a_kind_hand_2:
         print("Hand 2: 3 of a kind")
         check_hand_2 = 6
 
-    if check_4_of_a_kind_hand_2:
+    elif check_4_of_a_kind_hand_2:
         print("Hand 2: 4 of a kind")
         check_hand_2 = 2
 
-    if check_flush_hand_2:
+    elif check_flush_hand_2:
         print("Hand 2: A flush")
         check_hand_2 = 4
 
-    if check_straight_hand_2:
+    elif check_straight_hand_2:
         print("Hand 2: A straight")
         check_hand_2 = 5
 
