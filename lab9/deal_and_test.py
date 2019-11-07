@@ -107,28 +107,28 @@ def main():
     if check_straight_flush:
         print("Straight flush")
 
-    if check_high_card:
+    elif check_high_card:
         print("High card")
 
-    if check_full_house:
+    elif check_full_house:
         print("Full house")
 
-    if check_pair:
+    elif check_pair:
         print("A pair")
 
-    if check_2_pair:
+    elif check_2_pair:
         print("Two pair")
 
-    if check_3_of_a_kind:
+    elif check_3_of_a_kind:
         print("3 of a kind")
 
-    if check_4_of_a_kind:
+    elif check_4_of_a_kind:
         print("4 of a kind")
 
-    if check_flush:
+    elif check_flush:
         print("A flush")
 
-    if check_straight:
+    elif check_straight:
         print("A straight")
 
 
