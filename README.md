@@ -15,4 +15,4 @@ Lab 10: Poker hand statistics (Deals hands for a user entered number of iteratio
 
 Lab 11: todo list has simple functions that can add and remove task from a todo list. It was a practice for writing functions that only use test and no user input.
 
-Final project will be added soon (update 11/21/2019)
+Final project will be added soon (update 11/21/2019) --> update (9/17/2020) Final project is in its own repository ("python_card_game")
